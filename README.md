@@ -1,0 +1,3 @@
+# Groebner
+
+This is a library to allow for the symbolic manipulation of monomials and polynomials in multiple variables. Specifically, it was made to help with calculation of something called a Groebner basis. Given a set of polynomials $F$, there is an associated set of polynomials $G$ that spans the same space as $F$, but which has nicer properties called the Groebner basis. This is similar to the idea of doing row reduction on a matrix to find a basis for the row space.
